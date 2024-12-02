@@ -1,6 +1,6 @@
 Hi there!👋 I'm @janisrebekah
 👀 I’m interested in: Technology, data analytics, web development and creative projects.
-🌱 I’m currently learning: Advanced data analysis techniques, full-stack development.
+🌱 I’m currently learning: Exploring the fascinating world of Data Science and Machine Learning!
 ⚡ Fun fact: I can switch from debugging code to strumming my guitar or crafting a motivational speech in no time!
 
 <!---
