@@ -32,7 +32,7 @@ I can switch from debugging code 🧑‍💻 to strumming my guitar 🎸 or craf
 ---
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [janisrebekah](www.linkedin.com/in/janisrebekah)
+- **LinkedIn:** [janisrebekah](www.linkedin.com/in/janisrebekah/)
 
 ---
 
