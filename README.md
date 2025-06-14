@@ -21,7 +21,7 @@ Exploring the realms of **Data Science** and **Machine Learning**! My mind is co
 ## Fun Fact:
 I can switch from debugging code to strumming my guitar or crafting a motivational speech in no time—talk about multitasking!
 
-## 📬 Let's Connect!
+## Let's Connect!
 - **LinkedIn:** [janisrebekah](https://www.linkedin.com/in/janisrebekah/)
 
 
