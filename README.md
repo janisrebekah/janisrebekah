@@ -10,7 +10,7 @@ Hey there! I’m Janis, a tech enthusiast who loves the challenge of exploring t
 - **Creative Projects** — Thinking outside the box to create impactful solutions.
 
 ## Currently learning:
-Exploring the realms of **Data Science** and **Machine Learning**! My mind is constantly buzzing with ideas on how these fields can revolutionize the world.
+Exploring the realms of **Data Science** and **Machine Learning**!
 
 ## Skills & Tools I work with:
 - **Programming Languages**: Python, JavaScript, HTML/CSS, C++
